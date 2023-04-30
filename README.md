@@ -111,3 +111,4 @@ http://bugs.qbittorrent.org
 
 For enhanced features bug(such as Auto Ban, API, Auto Update Tracker lists...), please report to:
 https://github.com/c0re100/qBittorrent-Enhanced-Edition/issues
+trigger
